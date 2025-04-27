@@ -63,7 +63,9 @@ If following exactly to the example, then:
 
 8. Unplug the BTT SKR Mini E3 V3 from the programming system
 
-9. Remove the Micro SD Card from the BTT SKR Mini E3 V3
+9. Remove the Micro SD Card from the BTT SKR Mini E3 V3 and insert it into the programming system
+
+10. Check to see that the filename on the Micro SD Card has changed from "firmware.bin" to "firmware.cur".  This change indicates that the code was loaded into the MCU without issue
 
 ## Enabling DFU Mode and Loading new Firmware
 
